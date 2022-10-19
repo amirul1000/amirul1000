@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirul1000
+- 👋 Hi, I’m @amirul1000  Amirul Momenin (Programmer,System Analyst & Software Application Architect)
 - 👀 I’m interested in ...Appery.io,CodeIgniter,Laravel,Django,Angular,Mobile App Developer
 - 🌱 I’m currently learning ...AI,Neural Network,Machine Learning,Deep Leraning,Data Science etc
 - 💞️ I’m looking to collaborate on ...Appery.io,CodeIgniter,Laravel,Django,Angular,Mobile App Developer
