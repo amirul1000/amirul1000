@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Appery.io,CodeIgniter,Laravel,Django,Angular,Mobile App Developer
 - 🌱 I’m currently learning ...AI,Neural Network,Machine Learning,Deep Leraning,Data Science etc
 - 💞️ I’m looking to collaborate on ...Appery.io,CodeIgniter,Laravel,Django,Angular,Mobile App Developer
-- 📫 How to reach me ...Phone : +8801536176950   E-mail:amirrucst@gmail.com
+- 📫 How to reach me ...Phone : +8801618505996   E-mail:patainc@gmail.com
 
 <!---
 amirul1000/amirul1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
