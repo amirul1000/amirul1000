@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...Appery.io,CodeIgniter,Laravel,Django,Angular,Mobile App Developer
 - 📫 How to reach me ...Phone : +8801618505996   E-mail:patainc@gmail.com
 
-- https://www.codester.com/rana100/shop?ref=rana100
 
 <!---
 amirul1000/amirul1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,3 +49,6 @@ Google Map
 Payment Gateway
 Shopping Cart
 Order System
+
+- https://www.codester.com/rana100/shop?ref=rana100
+
