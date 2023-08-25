@@ -52,5 +52,5 @@ Order System
 
 - https://www.codester.com/rana100/shop?ref=rana100
 
--https://paypal.me/patacorporation
+- https://paypal.me/patacorporation
 
