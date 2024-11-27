@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amirul1000  Amirul Momenin (Programmer,System Analyst & Software Application Architect)
-- 👀 I’m interested in ...Appery.io,CodeIgniter,Laravel,WordPress,WP-Plugin,Django,Angular,Mobile App Developer
+- 👀 I’m interested in ...Laravel-Vue, CodeIgniter, WordPress Plugin,PHP,MySQL,CSS,JS,Appery.io
 - 🌱 I’m currently learning ...AI,Neural Network,Machine Learning,Deep Leraning,Data Science etc
 - 💞️ I’m looking to collaborate on ...Appery.io,CodeIgniter,Laravel,Django,Angular,Mobile App Developer
 - 📫 How to reach me ...Phone : +8801618505996   E-mail:patainc@gmail.com
