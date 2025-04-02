@@ -10,14 +10,21 @@ amirul1000/amirul1000 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 #Full-Stack Developer | Expert in PHP (Laravel, CodeIgniter, WordPress, WooCommerce), JavaScript (Node.js, Express.js, React, Vue 3, Angular), Python (Django, TensorFlow, Flask , FastAPI), Hybrid Mobile Apps (Cordova, Ionic, Appery.io), MERN Stack
+
 #I have successfully completed over 200 small and large-scale projects, delivering high-quality solutions across various domains
 #My expertise lies in writing clean, structured, and efficient code, ensuring maintainability and scalability. Beyond coding, I excel as a System Analyst, adept at understanding business requirements and translating them into technical solutions
-# Software Development Life Cycle (SDLC): Agile
-# Version Control & Collaboration: GitHub
-# Web Application Development - Laravel,Vue,CodeIgniter,WordPress,Python-Django
-# Mobile App Development - Ionic,Cordova,Appery.io,Angular.js,Vue.js,Node.js,Express.js
-# Custom CMS Development (WordPress & Beyond)
-# WooCommerce & eCommerce Solutions
+
+ Software Development Life Cycle (SDLC): Agile
+ 
+Version Control & Collaboration: GitHub
+
+ Web Application Development - Laravel,Vue,CodeIgniter,WordPress,Python-Django
+ 
+ Mobile App Development - Ionic,Cordova,Appery.io,Angular.js,Vue.js,Node.js,Express.js
+ 
+ Custom CMS Development (WordPress & Beyond)
+ 
+ WooCommerce & eCommerce Solutions
 
 
 
