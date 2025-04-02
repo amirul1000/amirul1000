@@ -9,7 +9,16 @@
 amirul1000/amirul1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I offer expertise in a wide range of technologies including Appery.io, Ionic 5, jQuery, JavaScript, PHP, MySQL (CodeIgniter, Laravel, WordPress), Python-Django, and Hybrid Mobile App development (Appery.io, Cordova, Ionic, Angular 13). Additionally, I specialize in creating new custom WordPress plugins as well as enhancing existing ones. With a strong track record of delivering successful projects, I am equipped to contribute both as a proficient coder and a meticulous system analyst. My exceptional time management skills ensure timely and successful project completion .Experience superior quality work at a budget-friendly price point.
+#Full-Stack Developer | Expert in PHP (Laravel, CodeIgniter, WordPress, WooCommerce), JavaScript (Node.js, Express.js, React, Vue 3, Angular), Python (Django, TensorFlow, Flask , FastAPI), Hybrid Mobile Apps (Cordova, Ionic, Appery.io), MERN Stack
+#I have successfully completed over 200 small and large-scale projects, delivering high-quality solutions across various domains
+#My expertise lies in writing clean, structured, and efficient code, ensuring maintainability and scalability. Beyond coding, I excel as a System Analyst, adept at understanding business requirements and translating them into technical solutions
+# Software Development Life Cycle (SDLC): Agile
+# Version Control & Collaboration: GitHub
+# Web Application Development - Laravel,Vue,CodeIgniter,WordPress,Python-Django
+# Mobile App Development - Ionic,Cordova,Appery.io,Angular.js,Vue.js,Node.js,Express.js
+# Custom CMS Development (WordPress & Beyond)
+# WooCommerce & eCommerce Solutions
+
 
 ✅Appery.io ✅Ionic 13 ✅CodeIgniter ✅WordPress ✅WP-Plugin ✅Laravel,Vue ✅Angular ✅WooCommerce✅SEO Optimization✅Promotion Campaign
 
